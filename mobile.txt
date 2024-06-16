@@ -2,3 +2,5 @@ smartphone
 
 touchscreen
 gorilla glass
+
+sensor
